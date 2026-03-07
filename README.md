@@ -7,7 +7,7 @@ I enjoy building real digital products, SaaS tools, and web solutions that solve
 
 ---
 
-## 🚀 What I'm working on
+## What I'm working on
 
 - Real estate SaaS solutions
 - Web development for real clients
@@ -16,7 +16,7 @@ I enjoy building real digital products, SaaS tools, and web solutions that solve
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 - Python
 - JavaScript / TypeScript
@@ -28,7 +28,7 @@ I enjoy building real digital products, SaaS tools, and web solutions that solve
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### SaaSInmo
 Real estate web MVP designed to help property businesses present listings professionally and improve their online presence.
@@ -41,14 +41,14 @@ Educational assistant capable of generating exam-style questions and automated f
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Pontificia Universidad Católica de Valparaíso (PUCV)**  
 Engineering in Data Science *(in progress)*
 
 ---
 
-## 🌎 About me
+##  About me
 
 - Based in Chile
 - Interested in SaaS, Data, and Product Development
@@ -56,6 +56,6 @@ Engineering in Data Science *(in progress)*
 
 ---
 
-## 🔗 GitHub
+##  GitHub
 
 github.com/Trees022
