@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Renato Delpino 👋
 
-<!--
-**Trees022/Trees022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-focused developer from Chile 🇨🇱  
+Currently studying **Data Science Engineering at PUCV**.
 
-Here are some ideas to get you started:
+I enjoy building real digital products, SaaS tools, and web solutions that solve practical business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm working on
+
+- Real estate SaaS solutions
+- Web development for real clients
+- Data-oriented projects
+- Building my tech portfolio
+
+---
+
+## 🧠 Skills
+
+- Python
+- JavaScript / TypeScript
+- HTML / CSS
+- SQL
+- Git / GitHub
+- Data analysis fundamentals
+- SaaS & MVP development
+
+---
+
+## 📌 Featured Projects
+
+### SaaSInmo
+Real estate web MVP designed to help property businesses present listings professionally and improve their online presence.
+
+### Marsur Propiedades
+Professional website developed for a real estate business in southern Chile.
+
+### AI Tutor for PAES
+Educational assistant capable of generating exam-style questions and automated feedback.
+
+---
+
+## 🎓 Education
+
+**Pontificia Universidad Católica de Valparaíso (PUCV)**  
+Engineering in Data Science *(in progress)*
+
+---
+
+## 🌎 About me
+
+- Based in Chile
+- Interested in SaaS, Data, and Product Development
+- Looking for remote opportunities
+
+---
+
+## 🔗 GitHub
+
+github.com/Trees022
