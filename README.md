@@ -66,6 +66,10 @@ Engineering in Data Science *(in progress)*
 
 ---
 
-##  GitHub
+## Contact
 
-github.com/Trees022
+LinkedIn  
+https://www.linkedin.com/in/renato-delpino-22yei22333/
+
+Email  
+renatodelpino22@gmail.com
