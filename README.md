@@ -16,15 +16,23 @@ I enjoy building real digital products, SaaS tools, and web solutions that solve
 
 ---
 
-##  Skills
+## Skills
 
-- Python
-- JavaScript / TypeScript
-- HTML / CSS
-- SQL
-- Git / GitHub
-- Data analysis fundamentals
-- SaaS & MVP development
+### Programming
+Python  
+JavaScript / TypeScript  
+SQL  
+
+### Web Development
+React  
+HTML / CSS  
+
+### Tools
+Git / GitHub  
+
+### Other
+Data analysis fundamentals  
+SaaS & MVP development
 
 ---
 
