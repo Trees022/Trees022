@@ -16,7 +16,7 @@ I build and maintain web products for real business workflows, from responsive i
 
 ## Selected work
 
-### [Arriendate.cl](https://arriendate.cl/) — real-estate SaaS and CRM
+### [Arriendate.cl](https://arriendate.vercel.app/) — real-estate SaaS and CRM
 
 Production platform for property and client management. I work across the product lifecycle: requirements, frontend implementation, authentication and role-based access, PostgreSQL/Supabase data flows, deployment and ongoing improvements.
 
