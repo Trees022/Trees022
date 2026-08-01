@@ -22,7 +22,7 @@ Production platform for property and client management. I work across the produc
 
 The production source is private because it contains client and business-specific implementation details.
 
-### [Grifferos Capital — public case study](https://github.com/Trees022/real-estate-platform-grifferos)
+### [Grifferos Capital — public case study](https://www.grifferos.cl/)
 
 A documented client platform covering property management, an administrative workflow and production delivery. The case study explains the work without exposing private client source code.
 
