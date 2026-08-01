@@ -42,7 +42,7 @@ I am currently preparing for Microsoft's **AI-103: Developing AI Apps and Agents
 
 ## Education
 
-**Civil Engineering in Data Science — coursework completed**  
+**Civil Engineering in Data Science — coursework and technical training**  
 Pontificia Universidad Católica de Valparaíso · 2023–2026
 
 ## Languages
